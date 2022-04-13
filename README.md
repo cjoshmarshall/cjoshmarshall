@@ -8,25 +8,23 @@
 - 😄 Pronouns: He/Him
 
 
-<a href="https://ayush-fanse-portfolio.netlify.app"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <div align="center">
   
-### Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Fanse.!
+### Hi there 👋, Im Josh.
   
 </div>
 
 <hr>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+<h3 align="center">Full Stack Developer.</h3>
 
 
 ## 🙋‍♂️ About me
-- 👨🏻‍💻 I’m currently working on Memories keeping website.
-- 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> and Amazon Web Services <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">.
+- 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
 - 💬 Ask me about ReactJS <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png">, NodeJS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">, MongoDB <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png">.
-- 🔗 Portfolio: [My Portfolio.](https://ayush-fanse-portfolio.netlify.app) 
+- 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
 - 📄 Resume: [My Resume.](https://drive.google.com/drive/folders/1iiVzZXIdACduC3j2ZHKiUJnIhL-wO8lb)
-- 📫 How to reach me: [ayush.fanse@gmail.com.](ayush.fanse@gmail.com)
+- 📫 How to reach me: [cjoshmarshall@gmail.com.](cjoshmarshall@gmail.com)
 
 <hr>
 
