@@ -10,7 +10,7 @@
 
 
 ## 🙋‍♂️ About me
-- 💬 Ask me about MongoDB <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_react.png">, MongoDB <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_express.png">, React <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_react.png">, Node <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_node.png">.
+- 💬 Ask me about MongoDB <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_react.png">, React <img height="15" src="https://icons8.com/icons/set/react">, React <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_react.png">, Node <img height="15" src="https://github.com/cjoshmarshall/portfolio/blob/master/src/images/icon_node.png">.
 - 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
 - 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
 - 📄 Resume: [My Resume.](https://drive.google.com/file/d/1vs0a-XtPDvzKzFWrMJffBezib0o5Mr1B/view?usp=sharing)
