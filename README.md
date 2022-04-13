@@ -21,15 +21,18 @@
 
 <h2>Techs Known</h2>
 
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/html.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/css.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/javascript.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/bootstrap.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mdb.jpg"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/npm.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/33663932?s=40&v=4"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/32372333?s=40&v=4"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/html.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/css.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/javascript.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/bootstrap.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/react.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/node.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/express.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/mysql.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/mongodb.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/npm.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/yarn.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/postman.png"></code>
+<code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/git.png"></code>
+
+
