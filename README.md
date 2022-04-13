@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Developer.</h3>
 
 
-## 🙋‍♂️ About me
+## About me
 - 💬 Ask me about MongoDB, Express, React, Node.
 - 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
 - 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2>Techs Known</h2>
+## Techs Known
 
 <code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/html.png"></code>
 <code><img height="35" src="https://github.com/cjoshmarshall/cjoshmarshall/blob/main/logos/css.png"></code>
