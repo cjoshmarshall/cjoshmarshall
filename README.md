@@ -11,7 +11,7 @@
 
 ## About me
 - 💬 Ask me about MongoDB, Express, React, Node.
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Redux, Web 3.0
 - 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
 - 📄 Resume: [My Resume.](https://drive.google.com/file/d/1vs0a-XtPDvzKzFWrMJffBezib0o5Mr1B/view?usp=sharing)
 - 📫 How to reach me: cjoshmarshall@gmail.com
