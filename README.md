@@ -1,12 +1,11 @@
 <div align="center">
   
-### Hi there 👋, Im Josh.
+### Full Stack Developer.
   
 </div>
 
 <hr>
 
-<h3 align="center">Full Stack Developer.</h3>
 
 
 ## About me
