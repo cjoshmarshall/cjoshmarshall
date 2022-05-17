@@ -9,10 +9,10 @@
 
 
 ## About me
-- 💬 Ask me about MongoDB, Express, React, Node.
-- 🌱 I’m currently learning Redux, Web 3.0
-- 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
-- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1vs0a-XtPDvzKzFWrMJffBezib0o5Mr1B/view?usp=sharing)
+- 💬 Ask me about <b>M</b>ongoDB, <b>E</b>xpress, <b>R</b>eact, <b>N</b>ode.
+- 🌱 I’m currently learning Redux, Angular, Web 3.0
+- 🔗 Portfolio: [My Portfolio.](https://joshmarshall2.netlify.app) 
+- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1VaOT_bj3izsFctooxw18qdH_QrFhDkNu/view)
 - 📫 How to reach me: cjoshmarshall@gmail.com
 - 😄 Pronouns: He/Him
 
