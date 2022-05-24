@@ -11,8 +11,8 @@
 ## About me
 - 💬 Ask me about <b>M</b>ongoDB, <b>E</b>xpress, <b>R</b>eact, <b>N</b>ode.
 - 🌱 I’m currently learning Angular, AWS EC2, Web 3.0
-- 🔗 Portfolio: [My Portfolio.](https://joshmarshall2.netlify.app) 
-- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1VaOT_bj3izsFctooxw18qdH_QrFhDkNu/view)
+- 🔗 Portfolio: [My Portfolio.](https://joshmarshall.netlify.app) 
+- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1zhggZEnHN9Ppe2ZVpc2VziH_De3I7hBu/view)
 - 📫 How to reach me: cjoshmarshall@gmail.com
 - 😄 Pronouns: He/Him
 
